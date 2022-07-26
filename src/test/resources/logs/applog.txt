@@ -1,0 +1,8 @@
+INFO    2022-07-26 11:52:22,531 [main] baseTest.BaseTest  - Config properties loaded !!!
+INFO    2022-07-26 11:52:22,533 [main] baseTest.BaseTest  - OR properties loaded !!!
+INFO    2022-07-26 11:52:31,221 [main] baseTest.BaseTest  - Launching Chrome !!!
+INFO    2022-07-26 11:52:34,049 [main] baseTest.BaseTest  - Navigated to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-07-26 11:52:34,423 [main] baseTest.BaseTest  - DB Connection established !!!
+INFO    2022-07-26 11:52:35,375 [main] baseTest.BaseTest  - Clicking on an Element : bmlBtn_XPATH
+INFO    2022-07-26 11:52:35,479 [main] baseTest.BaseTest  - Finding an Element : addCustomerBtn_XPATH
+INFO    2022-07-26 11:52:36,309 [main] baseTest.BaseTest  - Test Execution completed !!!
