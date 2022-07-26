@@ -8,7 +8,7 @@ import baseTest.BaseTest;
 
 
 public class BankManagerLoginTest extends BaseTest{
-	
+	//Bankmanagerlogin
 	@Test
 	public void loginAsBankManager() {
 		
